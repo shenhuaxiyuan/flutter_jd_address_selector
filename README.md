@@ -2,7 +2,7 @@
 
 仿京东地址选择器
 
-从https://github.com/shichunlei/flutter_jd_address_selector改编而来，支持设置初始值，支持A-Z排序 ， 完善了数据源 ，添加热门城市
+从https://github.com/shichunlei/flutter_jd_address_selector  改编而来，支持设置初始值，支持A-Z排序 ， 完善了数据源 ，添加热门城市
 
 ## Use
 
