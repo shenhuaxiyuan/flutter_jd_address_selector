@@ -52,7 +52,7 @@
 
 ## 运行截图
 
-|![1](https://github.com/shenhuaxiyuan/flutter_jd_address_selector/screen_pic/Screenshot_1591667475.png))|
+|![1](https://github.com/shenhuaxiyuan/flutter_jd_address_selector/blob/master/screen_pic/Screenshot_1591667475.png))|
 | :--: | :--: |
 
 
